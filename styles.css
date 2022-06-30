@@ -1,0 +1,11 @@
+table{
+    border-color: "peachpuff";
+    border-width: "20";
+    background-color: "antiquewhite";
+}
+p{
+    font-style: "oblique";
+    font-size: "14";
+    margin: "auto";
+    color:"red;"
+}
